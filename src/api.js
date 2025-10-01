@@ -1,4 +1,4 @@
-export let BASE_URL = 'https://your-public-api.example.com'; // set to your FastAPI URL
+export let BASE_URL = 'https://backend-prototype-x8en.onrender.com'; // set to your FastAPI URL
 
 export const setBaseUrl = (url) => { BASE_URL = url; };
 
